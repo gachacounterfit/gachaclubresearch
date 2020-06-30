@@ -1,0 +1,2 @@
+upload   : https://lunime.com/gachaclub/gclubdata/club_register.php
+download : https://lunime.com/gachaclub/gclubdata/club_login.php
